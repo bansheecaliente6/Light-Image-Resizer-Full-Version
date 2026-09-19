@@ -239,4 +239,4 @@ This repository serves as the official landing page for Light Image Resizer. The
 **Get the most recent version of Light Image Resizer today!**
 
 ---
-**Last updated:** 2026-09-19 13:45:04 UTC
+**Last updated:** 2026-09-19 17:03:02 UTC
